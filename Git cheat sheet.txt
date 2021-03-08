@@ -1,0 +1,8 @@
+Git add -A
+>Add files to be tracked by git
+
+Git commit -m "message"
+>Commit files for sync
+
+git status 
+>what is on the stage to be committed
