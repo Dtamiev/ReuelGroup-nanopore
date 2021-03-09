@@ -6,3 +6,8 @@ Git commit -m "message"
 
 git status 
 >what is on the stage to be committed
+
+git branch -a
+
+Tutorial
+https://www.youtube.com/watch?v=HVsySz-h9r4
