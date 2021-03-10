@@ -56,9 +56,10 @@ for i in hits.index:
 
             outFastqFile=open(outname,"w+")
 
-            outFastqFile.write(content[id-1])
             outFastqFile.write(content[id])
             outFastqFile.write(content[id+1])
+            outFastqFile.write(content[id+2])
+            outFastqFile.write(content[id + 3])
 
             outFastqFile.close()
     print(i, "Sequence")
